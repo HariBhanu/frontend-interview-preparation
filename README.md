@@ -207,3 +207,8 @@ Q182. Various hooks syntax useParam, useReducer, useQuery, useContext and many m
 Q183. Explain the Life cycle methods in Functional Components
 Q184. Explain the MVC of the React Application
 Q185. Is React a Library or Framework
+Q186. Display the string elements coming from a URL in react 
+Q187. How to invoke a function from a super nested Child Component, when the function is defined in the Parent Component
+Q188. What are functional Components and Class components 
+Q189. Define Hooks
+Q190.
