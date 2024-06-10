@@ -1,6 +1,4 @@
 ## Frontend Interview Questions
-
-# React_Projects
 ReactJS Interview Questions
 
 Here is the updated and renumbered list of questions:
