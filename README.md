@@ -195,18 +195,18 @@ Q172. Create a triangle using CSS
 Q173. Explain rate limiting and write a small code to demonstrate.  
 Q174. ESLint and security plugins used in your project?  
 Q175. CORS, CSP and XSS explain  
-Q176. Tree shaking, debouncing and throttling  
-Q177. Write a program for form validation without using any library  
-Q178. Array operations  
-Q179. Nested array operations, flattening of an array likewise  
-Q180. Performance optimization techniques explain  
-Q181. Shallow and deep copy..explain how will you create it  
-Q182. Various hooks syntax useParam, useReducer, useQuery, useContext and many more.
-Q183. Explain the Life cycle methods in Functional Components
-Q184. Explain the MVC of the React Application
-Q185. Is React a Library or Framework
-Q186. Display the string elements coming from a URL in react 
-Q187. How to invoke a function from a super nested Child Component, when the function is defined in the Parent Component
-Q188. What are functional Components and Class components 
-Q189. Define Hooks
-Q190.
+Q176. What are tree shaking, debouncing, and throttling?
+Q177. How can you write a program for form validation without using any library?
+Q178. What are some common array operations in JavaScript?
+Q179. How do you perform nested array operations and flattening of an array?
+Q180. What are some performance optimization techniques in web development?
+Q181. Explain shallow and deep copy. How would you create each in JavaScript?
+Q182. What are various React hooks and their syntax? Examples include useParam, useReducer, useQuery, useContext.
+Q183. Explain the lifecycle methods in functional components in React.
+Q184. What is the MVC architecture of a React application?
+Q185. Is React a library or a framework? Why?
+Q186. How can you display string elements coming from a URL in a React component?
+Q187. How to invoke a function from a super nested child component when the function is defined in the parent component?
+Q188. What are functional components and class components in React?
+Q189. Define what hooks are in React.
+Q190. Describe the use and implementation of hooks in React.
